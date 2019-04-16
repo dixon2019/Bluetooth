@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="PD">已配对的蓝牙设备</string>
+    <string name="SS">搜索周围蓝牙设备</string>
+    <string name="s1">send(1)</string>
+    <string name="s2">send(2)</string>
+    <string name="s3">send(3)</string>
+    <string name="s4">send(4)</string>
+    <string name="s5">send(5)</string>
+    <string name="disconnect">break BT</string>
+</resources>
